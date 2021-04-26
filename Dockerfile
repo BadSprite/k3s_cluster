@@ -1,5 +1,5 @@
 FROM gcc:4.9
-COPY . /HelloWorld
-WORKDIR /HelloWorld
-RUN g++ -o HelloWorld HelloWorld.cpp
-CMD ["./HelloWorld"]
+COPY . /Program1
+WORKDIR /Program1
+RUN g++ -o Program1 Program1.cpp
+CMD ["./Program1"]
