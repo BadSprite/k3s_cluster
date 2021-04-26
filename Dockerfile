@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:edge
 COPY . /Program1
 WORKDIR /Program1
 RUN apk add g++\
