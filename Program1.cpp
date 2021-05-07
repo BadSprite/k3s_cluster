@@ -3,6 +3,6 @@ using namespace std;
  
 int main()
 {
-   cout << "This is first program" << endl;
+   cout << "k3s-cluster" << endl;
    return 0;
 }
