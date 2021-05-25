@@ -3,6 +3,6 @@ using namespace std;
  
 int main()
 {
-   cout << "k3s-cluster" << endl;
+   cout << "test CI/CD" << endl;
    return 0;
 }
